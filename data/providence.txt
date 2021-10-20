@@ -1,3 +1,7 @@
 infant-mortality.csv, WHO, https://www.who.int/data/gho/data/indicators/indicator-details/GHO/infant-mortality-rate-(probability-of-dying-between-birth-and-age-1-per-1000-live-births)
 
 romeo-and-juliet.txt, Project Gutenberg, https://www.gutenberg.org/files/1513/1513-0.txt
+
+population.csv, World Bank, https://data.worldbank.org/indicator/SP.POP.TOTL
+
+cats.csv, Me
