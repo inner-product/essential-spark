@@ -4,4 +4,8 @@ romeo-and-juliet.txt, Project Gutenberg, https://www.gutenberg.org/files/1513/15
 
 population.csv, World Bank, https://data.worldbank.org/indicator/SP.POP.TOTL
 
+owid-co2-data.csv, OWID, https://github.com/owid/co2-data
+
+owid-covid-data.csv, OWID, https://github.com/owid/covid-19-data
+
 cats.csv, Me
