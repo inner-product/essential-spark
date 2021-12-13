@@ -43,6 +43,19 @@ object Population {
   // What is the highest population amongst the countries whose names start with "C"?
   //
   //
+  // Group By
+  //
+  // Find the highest population for each year
+  //
+  // Find the average population for each year
+  //
+  // For each country find the standard deviation in population
+  //
+  // Find how many country names start with the same letter
+  //
+  // Find the highest population amongst each group of countries whose name starts with the same letter.
+  //
+  //
   // Joins
   //
   // Which country had the largest absolute growth in population from one year to the next?
