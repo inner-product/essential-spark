@@ -3,7 +3,7 @@
 //
 //   :load scripts/Population.scala
 //
-// From the shell. Note: You will probably need to change the path to the file.
+// from the shell. Note: You will probably need to change the path to the file.
 object Population {
   // Load the data into a DataFrame
   val df = spark.read
@@ -39,6 +39,8 @@ object Population {
   // Which country has the highest population in 1960?
   //
   // Which country has the lowest population in 2018?
+  //
+  // What is the highest population amongst the countries whose names start with "C"?
   //
   //
   // Joins
