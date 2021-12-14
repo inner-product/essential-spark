@@ -37,13 +37,14 @@ object Joins {
   // - population
   // - mean infant mortality for both sexes
 
-  // Join countries and population to get country name and population for
-  // all the regions etc. that are not countries in population.
+  // Join countries and population to get country name and population for all
+  // the regions etc. that are not countries in countries but are found in
+  // population.
 
   // Find any countries or regions, or years, for which there is population data
   // but not infant mortality data
 
   // For each country find the year in which its population was a maximum
-  // For each country find the year in which its populatino was a minimum
+  // For each country find the year in which its population was a minimum
   // Find the countries that have their maximum population occur before their minimum
 }
