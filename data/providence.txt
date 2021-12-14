@@ -8,4 +8,6 @@ owid-co2-data.csv, OWID, https://github.com/owid/co2-data
 
 owid-covid-data.csv, OWID, https://github.com/owid/covid-19-data
 
+countries.csv, https://stefangabos.github.io/world_countries/
+
 cats.csv, Me
